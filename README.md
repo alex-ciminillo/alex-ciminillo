@@ -37,9 +37,10 @@ My name's [Alex](https://alex-ciminillo.github.io/)! I'm a 27 year old software 
 
 ## Proud Projects
 <div align="center">
-<img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Ciminillo&repo=freeBook&theme=dark"/>
-<img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Ciminillo&repo=tower_of_dreams&theme=dark"/>
-<img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=amandac3600&repo=Flip_Up&theme=dark"/>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Ciminillo&repo=freeBook)](https://https://github.com/alex-ciminillo/freeBook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Ciminillo&repo=tower_of_dreams)](https://github.com/alex-ciminillo/tower_of_dreams)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amandac3600&repo=Flip_Up)](https://github.com/amandac3600/Flip_Up)
 </div>
 
 ## Stats
@@ -48,9 +49,13 @@ My name's [Alex](https://alex-ciminillo.github.io/)! I'm a 27 year old software 
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Alex-Ciminillo&margin-w=35&theme=dark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Alex-Ciminillo&margin-w=35&theme=buefy&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
   
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Alex-Ciminillo&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=11&line_height=27&custom_title=GitHub Stats" />
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Ciminillo&theme=dark&show_icons=true&hide_border=true&langs_count=3&border_radius=11&line_height=27" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Ciminillo&theme=dark"/>
-<div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Ciminillo&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=11&line_height=27&custom_title=GitHub Stats" />
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Ciminillo&theme=buefy&show_icons=true&hide_border=false&langs_count=3&border_radius=11&line_height=27" />  
+</div>
+  
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Ciminillo&theme=default&hide_border=true"/>
+  </div>
