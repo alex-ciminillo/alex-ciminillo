@@ -38,7 +38,7 @@ My name's [Alex](https://alex-ciminillo.github.io/)! I'm a 27 year old software 
 ## Proud Projects
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Ciminillo&repo=freeBook)](https://https://github.com/alex-ciminillo/freeBook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Ciminillo&repo=freeBook)](https://github.com/alex-ciminillo/freeBook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Ciminillo&repo=tower_of_dreams)](https://github.com/alex-ciminillo/tower_of_dreams)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amandac3600&repo=Flip_Up)](https://github.com/amandac3600/Flip_Up)
 </div>
