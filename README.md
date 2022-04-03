@@ -15,7 +15,7 @@
 </h1>
   
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name's [Alex](https://alex-ciminillo.github.io/)! I'm a 28 year old software engineer from Ohio. Passionate about full stack web, ios, and android application development. In my freetime I also really enjoy anime and practicing Japanese! Connect with me through my socials linked at the top!
+My name's [Alex](https://alex-ciminillo.github.io/)! I'm a 27 year old software engineer from Ohio. Passionate about full stack web, ios, and android application development. In my freetime I also really enjoy anime and practicing Japanese! Connect with me through my socials linked at the top!
 
 
 - 🧭 Graduate of [Wright State University](https://www.wright.edu/) (BS of Mechanical Engineering), [University of Findlay](https://www.findlay.edu/) (BA in Japanese Language and Culture) and [AppAcademy](https://www.appacademy.io/)
