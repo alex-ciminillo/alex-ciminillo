@@ -8,14 +8,14 @@
 <a href="https://angel.co/u/alexzander-christopher-scot-ciminillo">
   <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/angellist.png" />
 </a>
-<a href="https://angel.co/u/alexzander-christopher-scot-ciminillo">
+<a href="https://discordapp.com/users/890717628233023539/">
   <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/discord.gif" />
 </a>
-<a href="https://angel.co/u/alexzander-christopher-scot-ciminillo">
+<a href="https://www.facebook.com/ACSC.CIMI/">
   <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/facebook.gif" />
 </a>
-<a href="https://angel.co/u/alexzander-christopher-scot-ciminillo">
-  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/portfolio.png" />
+<a href="https://alex-ciminillo.github.io/">
+  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/portfolioletter.png" />
 </a>
 <h1 align="center">
   
