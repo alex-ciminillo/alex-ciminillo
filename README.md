@@ -1,5 +1,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alex-Ciminillo].$[README.md]&left_color=black&right_color=grey)
-<a href="https://www.linkedin.com/in/alexzander-ciminillo/">
+<a href="https://docs.google.com/document/d/19fbf1PzqrPha0rW7JTbhkkiPljctDkGyHKZJomzFrxg/edit?usp=sharing">
+  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/resumeicon.png" />
+</a>
+  <a href="https://www.linkedin.com/in/alexzander-ciminillo/">
   <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/linkedin.gif" />
 </a>
 <a href="mailto:ciminilloa@findlay.edu">
@@ -17,6 +20,7 @@
 <a href="https://alex-ciminillo.github.io/">
   <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/portfolioletter.png" />
 </a>
+
 <h1 align="center">
   
   ![](https://github.com/alex-ciminillo/alex-ciminillo/blob/master/alexciminillo.gif)
