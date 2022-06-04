@@ -3,22 +3,22 @@
   <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/resumeicon.png" />
 </a>
   <a href="https://www.linkedin.com/in/alexzander-ciminillo/">
-  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/linkedin.gif" />
+  <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/linkedin.gif" />
 </a>
 <a href="mailto:ciminilloa@findlay.edu">
-  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/mail.gif" />
+  <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/mail.gif" />
 </a>
 <a href="https://angel.co/u/alexzander-christopher-scot-ciminillo">
-  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/angellist.png" />
+  <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/angellist.png" />
 </a>
 <a href="https://discordapp.com/users/890717628233023539/">
-  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/discord.gif" />
+  <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/discord.gif" />
 </a>
 <a href="https://www.facebook.com/ACSC.CIMI/">
-  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/facebook.gif" />
+  <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/facebook.gif" />
 </a>
 <a href="https://alex-ciminillo.github.io/">
-  <img align="left" width="22px" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/portfolioletter.png" />
+  <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/portfolioletter.png" />
 </a>
 
 <h1 align="center">
@@ -27,7 +27,7 @@
   
 </h1>
   
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 My name's [Alex](https://alex-ciminillo.github.io/)! I'm a 27 year old software engineer from Ohio. Passionate about full stack web, ios, and android application development. In my freetime I also really enjoy anime and practicing Japanese! If you'd like, connect with me through my socials linked at the top, or you can check out my [resume](https://docs.google.com/document/d/19fbf1PzqrPha0rW7JTbhkkiPljctDkGyHKZJomzFrxg/edit?usp=sharing) and [portfolio](https://alex-ciminillo.github.io/)!
 
 
