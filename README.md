@@ -8,9 +8,6 @@
 <a href="mailto:ciminilloa@findlay.edu">
   <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/mail.gif" />
 </a>
-<a href="https://angel.co/u/alexzander-christopher-scot-ciminillo">
-  <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/angellist.png" />
-</a>
 <a href="https://discordapp.com/users/890717628233023539/">
   <img align="left" width="22" src="https://github.com/alex-ciminillo/alex-ciminillo/blob/master/discord.gif" />
 </a>
