@@ -11,7 +11,7 @@ My name's [Alex](https://alex-ciminillo.github.io/)! I'm a 28 year old software 
 
 
 - 🧭 Graduate of [Wright State University](https://www.wright.edu/) (BS of Mechanical Engineering), [University of Findlay](https://www.findlay.edu/) (BA in Japanese Language and Culture) and [AppAcademy](https://www.appacademy.io/)
-- 🔭 I’m currently working on developing my [Tower of Dreams](https://github.com/alex-ciminillo/tower_of_dreams) JavaScript app for iOS and Android
+- 🔭 I’m currently working as a Software Engineer at Amazon but I like developing my [Tower of Dreams](https://github.com/alex-ciminillo/tower_of_dreams) JavaScript app for iOS and Android in my freetime.
 - 🌱 Everyday I work through [Leetcode](https://seanprashad.com/leetcode-patterns/) problems that are often seen in interviews with companies like Google to further grow my JS skills!   
 
 ## Skills
